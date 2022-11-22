@@ -1,2 +1,0 @@
-Test somthing
-Test from git
